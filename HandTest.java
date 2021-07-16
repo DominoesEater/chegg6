@@ -21,12 +21,6 @@ import BlackJackBase.PHand;
  * A simple playing card hand test. This test will attempt a number of hand
  * arrangements to validate they add up to the correct points. A final hand that
  * equals 21 points will be displayed.
- * 
- * @author Jared N. Plumb
- * @version 1.1
- * @since 2018-06-12
- * @Minor modifications by Jeff Light
- * @since 2019-11-09
  */
 public class HandTest extends JPanel {
 

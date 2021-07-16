@@ -2,12 +2,6 @@ package BlackJackBase;
 
 /**
  * Base interface used to manage cards held by a player.
- * 
- * @author Jared N. Plumb
- * @version 1.0
- * @since 2018-05-25
- * @Minor modifications by Jeff Light
- * @since 2019-11-09
  */
 public interface PHand {
 
